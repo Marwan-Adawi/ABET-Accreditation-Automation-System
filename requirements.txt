@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+torch
+flask
+pytest
+black
+flake8
